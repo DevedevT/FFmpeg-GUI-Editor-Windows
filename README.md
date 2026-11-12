@@ -21,7 +21,8 @@ The release package consists of **two required files**: the main executable (`.e
 ---
 
 ### 🖼️ Interface & Quick Visual Guide
-![FFmpeg-GUI-Editor-Windows Visual Guide](./guide.png)
+![FFmpeg-GUI-Editor-Windows Visual Guide](blob/main/guide.png)
+
 
 
 ---
