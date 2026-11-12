@@ -2,7 +2,7 @@
 
 **SimpleVideoEditor-ML** is a lightweight, fast, and **free open-source video editor for Windows** that acts as an intuitive graphical user interface (**FFmpeg GUI**). Designed for users who want to **trim, crop, compress, and convert videos** without learning complex command-line arguments.
 
-This repository provides a **multi-language portable build** with a **ready-to-use `.exe` executable** based on the original [SimpleVideoEditor](https://github.com). No installation, no bloatware, and no watermarks. Licensed under **GPL v3**.
+This repository provides a **multi-language portable build** with a **ready-to-use `.exe` executable**. No installation, no bloatware, and no watermarks. Licensed under **GPL v3**.
 
 ---
 
@@ -52,3 +52,8 @@ You do not need to compile source code, install Python, or manually configure FF
 
 ### 🔍 Keywords & Use Cases
 `ffmpeg gui windows 10` • `ffmpeg gui windows 11` • `portable video trimmer exe` • `free video compressor no watermark` • `lossless video cutter` • `mp4 to gif converter exe` • `open source video editor` • `multilanguage ffmpeg frontend`
+
+---
+
+### 📜 License
+This project is free and open-source software licensed under the **GNU General Public License v3.0 (GPL-3.0)**.
